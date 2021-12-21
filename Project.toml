@@ -1,0 +1,7 @@
+name = "genetic"
+uuid = "fd5ef2bc-5c76-499c-9f28-deff34ae3367"
+authors = ["lauren "]
+version = "0.1.0"
+
+[deps]
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
